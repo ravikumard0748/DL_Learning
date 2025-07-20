@@ -1,0 +1,8 @@
+uttratha da 
+gpt link for basics,ANN,CNN - https://chatgpt.com/share/6868c1bf-9d58-800e-aba7-d2125cba3bc3
+Clarifications of CNN - https://chatgpt.com/share/68754733-8200-800e-ac2d-a547338d0653
+
+At time you read this you must finsih these other wise u w - Resnet,effiecientnet,convNext,(Optional vggnet)
+Transformet(ViT,Swin,DeiT)
+
+cnn transfer learning techniques above

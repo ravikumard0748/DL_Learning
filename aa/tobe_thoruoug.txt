@@ -1,0 +1,7 @@
+1. Embeddings la how the word2vec like the embedding while passing to the layer.
+2. Bidirectional RNN,LSTM - purithu aana purila
+3. implementation of the embedding from word2vec to cbow tf-idf\
+
+-----------
+GRU
+-----------
